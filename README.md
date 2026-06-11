@@ -1,7 +1,7 @@
 # CS351 AI-Assisted Software Development
 
 ## Student Information
-- Name: Jiang Shuowen
+- Name: Chiang Shuowen
 - Student ID: 1113314
 - Course: CS351 AI-Assisted Software Development
 
