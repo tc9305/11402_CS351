@@ -1,28 +1,34 @@
-# 11402_CS351
-## Course: AI-Assisted Software Development
+# CS351 AI-Assisted Software Development
 
-The repository is for CS351 - AI-Assisted Software Development at Yangtze University. This course explores modern software development practices enhanced by artificial intelligence and machine learning tools, covering AI-assisted coding, code generation, automated testing, and intelligent debugging techniques.
+## Student Information
+- Name: Jiang Shuowen
+- Student ID: 1113314
+- Course: CS351 AI-Assisted Software Development
 
-### Course Overview
+## Final Demo Links
+- Personal Website: https://tc9305.github.io/
+- Project 0: Two Sum: https://github.com/tc9305/11402_CS351_Project0
+- Project B: CSV Mini Database: https://github.com/tc9305/11402_CS351_ProjectB
 
-This course equips students with the knowledge and practical skills to leverage AI-powered tools and technologies in contemporary software development. As artificial intelligence becomes increasingly integral to the software development lifecycle, students will learn to effectively integrate AI solutions into their workflows to enhance productivity, code quality, and development efficiency.
+## Course Repository Purpose
+This repository is the central place for my CS351 learning records, assignments, project links, and final demo materials.
 
-### Key Topics
+## Course Work
+- Assignment II: SDD, BDD, and TDD in AI-Assisted Software Development
 
-- **AI-Assisted Coding**: Understanding how AI-powered coding assistants work and how to effectively use them for code completion, suggestion, and optimization
-- **Code Generation**: Learning techniques for automated code generation using machine learning models and modern AI frameworks
-- **Automated Testing**: Exploring AI-driven approaches to test case generation, test automation, and quality assurance
-- **Intelligent Debugging**: Mastering AI-enhanced debugging techniques for faster issue identification and resolution
+## What I Learned
+- How to use AI tools to support software development
+- How to clarify requirements before coding
+- How to compare different algorithm approaches
+- How to write test cases and verify outputs
+- How to use GitHub Actions for automated build and testing
+- How to document projects clearly with README files
 
-### Learning Objectives
-
-By the end of this course, students will be able to:
-- Utilize AI coding assistants effectively in real-world development scenarios
-- Understand the fundamentals of machine learning as applied to software engineering
-- Implement automated testing strategies enhanced by AI
-- Apply intelligent debugging methodologies to improve code quality
-- Evaluate and select appropriate AI tools for different development tasks
-
-### Course Structure
-
-This repository contains course materials, code examples, assignments, and projects designed to provide hands-on experience with AI-assisted software development practices.
+## Final Demo Summary
+In the final demo, I will present:
+1. Personal website
+2. Course repository
+3. Project 0: Two Sum
+4. Project B: CSV Mini Database
+5. GitHub workflow evidence
+6. AI-assisted development reflection
